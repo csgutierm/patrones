@@ -48,7 +48,7 @@ public class PatronesAnidados {
 			System.out.println();
 			System.out.println();
 			System.out.println("Patrón 4 con n = " + n);
-			System.out.println("-----------");
+			System.out.println("-----------"); 
 			patron4(n);
 
 			System.out.println();
