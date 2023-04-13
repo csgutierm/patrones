@@ -22,8 +22,6 @@ public class PatronesAnidados {
 		// parsear
 		BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
 		Integer n;
-		Integer j = 1;
-		Integer continuar = 1;
 		Boolean loop = true;
 
 		do {
